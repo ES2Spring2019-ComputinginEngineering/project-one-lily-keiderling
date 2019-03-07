@@ -24,7 +24,7 @@ Project Accelerometer.py generates the real world set of pendulum data using a m
 
 ## The Real World Data Code
 
-The realworld.data.py script parses through the accelerometer code . It then analyzes the data to find the average period of the angular position, and lastly, plots the unfiltered angular position (angle graph) and filtered angular position (filtered angle) graphs.
+The realworld.data.py script parses through the accelerometer code. It then analyzes the data to find the average period of the angular position, and lastly, plots the unfiltered angular position (angle graph) and filtered angular position (filtered angle) graphs.
 
 #### How to Use realworld.data.py
 1. Open spyder
